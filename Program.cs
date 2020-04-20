@@ -14,11 +14,11 @@ namespace textAdventure
             string name = Console.ReadLine();
             Console.WriteLine("Welcome to the game, " + name + "!");
             Console.Write("Starting in 3...");
-            Thread.Sleep(3000);
+            Thread.Sleep(2000);
             Console.Write("2...");
-            Thread.Sleep(3000);
+            Thread.Sleep(2000);
             Console.Write("1...");
-            Thread.Sleep(3000);
+            Thread.Sleep(2000);
             // Narration. *Bing!* 
             Console.WriteLine("Many years ago, the ancient race known as Zoomers walked this earth.");
             Thread.Sleep(4000);
@@ -134,7 +134,7 @@ namespace textAdventure
 
         } 
 
-        Console.Write("What would you like to do?");
+        Console.Write("What would you like to do? ");
         
         string input3 = Console.ReadLine();
 
@@ -184,7 +184,7 @@ namespace textAdventure
 
         }
 
-
+            //devolpment unofficially resumed as it was never postponed 4/20/20
 
 
 
