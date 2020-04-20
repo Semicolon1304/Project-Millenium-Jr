@@ -1,0 +1,9 @@
+/Users/Zack/Desktop/VSCode/C#/Bonnagery_Episode_1/bin/Debug/netcoreapp1.1/Bonnagery_Episode_1.deps.json
+/Users/Zack/Desktop/VSCode/C#/Bonnagery_Episode_1/bin/Debug/netcoreapp1.1/Bonnagery_Episode_1.runtimeconfig.json
+/Users/Zack/Desktop/VSCode/C#/Bonnagery_Episode_1/bin/Debug/netcoreapp1.1/Bonnagery_Episode_1.runtimeconfig.dev.json
+/Users/Zack/Desktop/VSCode/C#/Bonnagery_Episode_1/obj/Debug/netcoreapp1.1/Bonnagery_Episode_1.csproj.CoreCompileInputs.cache
+/Users/Zack/Desktop/VSCode/C#/Bonnagery_Episode_1/obj/Debug/netcoreapp1.1/Bonnagery_Episode_1.AssemblyInfo.cs
+/Users/Zack/Desktop/VSCode/C#/Bonnagery_Episode_1/bin/Debug/netcoreapp1.1/Bonnagery_Episode_1.dll
+/Users/Zack/Desktop/VSCode/C#/Bonnagery_Episode_1/bin/Debug/netcoreapp1.1/Bonnagery_Episode_1.pdb
+/Users/Zack/Desktop/VSCode/C#/Bonnagery_Episode_1/obj/Debug/netcoreapp1.1/Bonnagery_Episode_1.dll
+/Users/Zack/Desktop/VSCode/C#/Bonnagery_Episode_1/obj/Debug/netcoreapp1.1/Bonnagery_Episode_1.pdb
