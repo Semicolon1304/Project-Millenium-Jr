@@ -104,12 +104,15 @@ namespace millenniumText
                 Environment.Exit(0);
 
             }
+    
 
 
 
 
 
             } 
+
+        Console.WriteLine("");
 
         
         
